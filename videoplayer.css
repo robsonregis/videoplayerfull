@@ -9,7 +9,8 @@
     }
     .video-player-full {
     z-index: 0;
-    width: 100%;
+    width: max-content;
+    max-height: 100%;
     align-self: center;
     }
     .video-container-controls {
